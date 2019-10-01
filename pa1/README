@@ -1,0 +1,15 @@
+Timmy Wang
+CMPS101 Tantalo
+4/10/19
+
+Files submitted:
+List.java
+	Creates a List ADT with a cursor that can add, delete, and move in the list.
+ListClient.java
+	Provided test client that tests List.java
+Lex.java
+	Takes in strings from the input file, lexographically orders the strings, and prints them in the output file.
+Makefile
+	Provided make file that compiles List.java and Lex.java
+README
+	Table of contents of all files submitted

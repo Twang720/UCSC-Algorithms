@@ -1,0 +1,18 @@
+Timothy Wang
+CMPS101
+README
+Files submitted:
+Sparse.java
+	Creates 2 matrices and performs matrix operations on them.
+Matrix.java
+	Creates Matrix objects with matrix operations
+List.java
+	Creates a List of objects
+MatrixTest.java
+	Tests all Matrix functions
+ListTest.java
+	Tests all List functions
+Makefile
+	Creates an executable called Sparse
+README
+	Lists all submitted files

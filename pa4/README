@@ -1,0 +1,20 @@
+Timmy Wang
+CMPS101 Tantalo
+Files submitted:
+
+List.c
+	Creates a List ADT and its related functions
+List.h
+	Header file for List ADT and the ListObj and NodeObj struct definitions.
+Graph.c
+	Creates a Graph ADT and its related functions, as well as GraphObj struct definition
+Graph.h
+	Header file for Graph ADT and the GraphObj pointer defintion
+GraphTest.c
+	Test file to debug Graph.c and Graph.h
+FindPath.c
+	Prints the adjacency list of given vertices and edges and finds the shortest distance path to out file.
+Makefile
+	Creates an executable file FindPath, GraphClient, and GraphTest
+README
+	Description of files submitted

@@ -1,0 +1,17 @@
+Timmy Wang
+CMPS101 Tantalo
+4/21/19
+
+Files submitted:
+List.c
+        Creates a List ADT with a cursor that can add, delete, and move in the list.
+List.h
+	Header file for List.c
+ListClient.c
+        Provided test client that tests List.java
+Lex.c
+        Takes in strings from the input file, lexographically orders the strings, and prints them in the output file.
+Makefile
+        Provided make file that compiles List.java and Lex.java
+README
+        Table of contents of all files submitted

@@ -1,0 +1,22 @@
+Timmy Wang
+tqwang
+CS101 Tantalo
+README
+
+Files Submitted:
+List.c
+	Creates a List ADT with a ListObj struct and its related functions
+List.h
+	List.c function definitions and ListObj struct definition
+Graph.c
+	Creates a Graph ADT with a GraphObj struct and its related functions
+Graph.h
+	Graph.c function definitions and constants definitions.
+GraphTest.c
+	Debugging test client to search for bugs
+FindComponents.c
+	Takes in an input and output file, creates and prints a Graph, runs DFS, and prints out the strongly connected components.
+Makefile
+	Creates an executable file called FindComponents
+README
+	Brief summary of what files there are and what they do
